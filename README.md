@@ -4,7 +4,8 @@
 
 - Collection of important questions in DSA.
 - Can be used for quick revision of optimal approaches.
-- Every cpp file has a comment describing the question and other details.
+- Most of the cpp files have a comment describing a question and other details.
 
-**Status -** Work in progress!!!
+[WIP]
+
 
