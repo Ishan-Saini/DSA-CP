@@ -1,3 +1,10 @@
+/*
+	FIND VALUE OF (X^Y)%M
+
+	TIME COMPLEXITY = O(LOGY)
+*/
+
+
 #include <iostream>
 using namespace std;
 #define ll long long
